@@ -20,7 +20,7 @@
 
 <p align="left">
   <a href="#" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://accounts.google.com/ServiceLogin?service=mail&passive=true&Email=example@domain.com&continue=https://mail.google.com/mail/u/businessthiagorodrigues@gmail.com/" /></a>
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=https://accounts.google.com/ServiceLogin?service=mail&passive=true&Email=example@domain.com&continue=https://mail.google.com/mail/u/businessthiagorodrigues@gmail.com/#inbox/141b796e773c4f19" /></a>
   
   
 <a href="#" alt="Linkedin">
