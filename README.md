@@ -23,10 +23,6 @@
   
 
 
- 
-
-
-<br>
 
 ## 📚 Tecnologias que eu uso no meu dia
 
@@ -35,7 +31,7 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img align="center" alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
  
-</div><br/>
+</div>
 
 <div>
   <a href="https://github.com/eoqthiago">
