@@ -13,14 +13,11 @@
 
 ### 📥Contatos
 
-<p>
-
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](businessthiagorodrigues@gmail.com)
-
-
-[![linkedin](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](/www.linkedin.com/in/thiagorodriguesaraujo/)
-
-</p>
+<div> 
+  <a href = "mailto:businessthiagorodrigues@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/thiagorodriguesaraujo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+</div>
 
 
   
