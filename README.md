@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
- 📚 Linguagens: <strong>Aprendendo Linguagem C.</strong>
+ 📚 Linguagens: <strong>Aprendendo Javascript.</strong>
 </p>
 
 
