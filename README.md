@@ -5,10 +5,6 @@
   
 </p>
 
-<p align="left">
- 📚 Linguagens: <strong>Aprendendo Javascript.</strong>
-</p>
-
 
 
 ### 📥Contatos
