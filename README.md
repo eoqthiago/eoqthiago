@@ -5,15 +5,14 @@
 </div>
 
 
-
 <div>
   <a href="https://github.com/eoqthiago">
-  <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/?username=eoqthiago&layout=compact&hide_border=true&theme=dracula&hide=html,css,scss,shell,sass&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=eoqthiago&show_icons=true&theme=radical"/>
 </div>
   </br>
   
 <div align="" >
-<img src="https://github-profile-trophy.vercel.app/?username=eoqthiago&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=eoqthiago&row=1&column=6&theme=radical&margin-w=15&margin-h=15"/>
  </div>
 
 
