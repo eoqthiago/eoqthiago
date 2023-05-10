@@ -2,6 +2,8 @@
 <div align="left"> 
   <img height="130px" width="130px" src="https://i.imgur.com/cyYAs3J.png" >
   <img height="130px" width="130px" src="https://i.imgur.com/3k0uvI4.png" >
+  <img height="130px" width="130px" src="https://i.ibb.co/yFH6hF0/cms-files-10224-1677509014-Prancheta-1.png" >
+  
   <br><br>
 </div>
 
