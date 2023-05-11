@@ -2,7 +2,7 @@
 <div align="left"> 
   <img height="130px" width="130px" src="https://i.imgur.com/cyYAs3J.png" >
   <img height="130px" width="130px" src="https://i.imgur.com/3k0uvI4.png" >
-  <img height="130px" width="130px" src="https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1677509014Prancheta_1.png?utm_campaign=alura_latam_-_challenge_email_projeto_6_br&utm_medium=email&utm_source=RD+Station" >
+  <img height="130px" width="130px" src="https://i.imgur.com/LLiccbJ.png" >
   
   <br><br>
 </div>
