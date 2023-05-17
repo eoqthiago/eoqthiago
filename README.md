@@ -1,3 +1,6 @@
+
+![](https://komarev.com/ghpvc/?username=eoqthiago)
+
 - [x] Badges
 <div align="left"> 
   <img height="130px" width="130px" src="https://i.imgur.com/cyYAs3J.png" >
