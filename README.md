@@ -4,7 +4,7 @@
   <img height="130px" width="130px" src="https://i.imgur.com/cyYAs3J.png" >
   <img height="130px" width="130px" src="https://i.imgur.com/3k0uvI4.png" >
   <img height="130px" width="130px" src="https://i.imgur.com/LLiccbJ.png" >
-  
+  <img height="130px" width="130px" src="https://i.imgur.com/zM221ql.png" >
   <br><br>
 </div>
 
@@ -18,7 +18,7 @@
 
 | Course | Place | Hours |
 | :---: | :---: | :---: |
-| Formação Java | São Paulo | 66 Hr |
+| Oracle Next Education Java Back-end | São Paulo | 338 Hr |
 | SQL com MySQL: manipule e consulte dados | São Paulo | 12 Hr |
 | Tecnico em Informatica | São Paulo | 1200 Hr |
 | Business Agility | São Paulo | 27 Hr |
