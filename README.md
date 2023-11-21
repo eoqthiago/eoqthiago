@@ -46,5 +46,11 @@
 <div align="" >
 <img src="https://github-profile-trophy.vercel.app/?username=eoqthiago&row=1&column=6&theme=radical&margin-w=15&margin-h=15"/>
  </div>
+<div>
+  <br>
+ <strong>Contact:</strong></br>
+<a href="https://www.linkedin.com/in/thiagorodriguesaraujo/" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
 
